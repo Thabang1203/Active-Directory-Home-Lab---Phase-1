@@ -42,8 +42,3 @@ Phase 2 focuses on:
 ## Learning Outcome
 
 This phase provided practical experience in deploying Windows Server and preparing an Active Directory infrastructure for identity, access, and user management.
-
-## Author
-
-**Thabang Norman Lesotho**  
-Junior IT Administrator | IT Support Candidate
